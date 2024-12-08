@@ -5,9 +5,9 @@ layout: null
   "short_name": "{{ site.title | replace: '"', '\"' }}",
   "name": "{{ site.title | replace: '"', '\"' }}",
   "description": "{{ site.description | replace: '"', '\"' }}",
-  "start_url": "{{ '/' }}",
+  "start_url": "/",
   "background_color": "#ffffff",
   "display": "standalone",
-  "scope": "{{ '/' }}",
+  "scope": "/",
   "theme_color": "#ffffff"
 }

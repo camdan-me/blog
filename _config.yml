@@ -20,19 +20,6 @@ bing_verification:
 animated: false
 show_related_posts: false
 show_about_footer: false
-post_preview_image: true
-
-text:
-  pagination:
-    newer: "Newer"
-    older: "Older"
-  post:
-    updated: "Updated"
-    minute_read: "minute read"
-    related_posts: "Related Posts"
-  index:
-    coming_soon: "Coming soon..."
-  og_locale: "en_US"
 
 # Build settings
 markdown: kramdown
