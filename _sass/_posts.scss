@@ -20,15 +20,14 @@
   color: #333;
 }
 
-.post-footer {
+.about-footer {
   @extend .italic;
 
   margin-top: .75rem;
-  text-align: center;
 }
 
-.post-footer .avatar {
-  margin: 2rem 0;
+.about-footer .avatar {
+  margin: 1rem 0;
   width: 100px;
   border-radius: 50%;
 }

@@ -3,7 +3,6 @@ title: Camdan's Blog
 email: hello@camdan.me
 author: Camdan Mead
 description: "Sometimes I write about stuff and put it here."
-baseurl: ""
 url: "https://blog.camdan.me/"
 date_format: "%b %-d, %Y"
 header_pages:
@@ -19,8 +18,8 @@ bing_verification:
 
 # Optional features
 animated: false
-show_related_posts: true
-show_post_footers: true
+show_related_posts: false
+show_about_footer: false
 post_preview_image: true
 
 text:
