@@ -4,8 +4,8 @@ title:      The Hidden Surveillance
 author:     Camdan Mead
 date:       2025-11-2 01:00:00
 summary:    An argument that modern surveillance has evolved from passive data collection into an active system of behavioral prediction and manipulation that erodes human autonomy, a threat that can only be countered by widespread public awareness.
-categories:
-listed:     false
+categories: essay
+listed:     true
 ---
 
 **"You are now less valuable than the data you produce."**
